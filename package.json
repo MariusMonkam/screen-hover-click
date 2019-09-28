@@ -1,0 +1,8 @@
+{
+  "name": "js-yu4gvg",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.11.2"
+  }
+}
